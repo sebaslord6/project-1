@@ -97,7 +97,7 @@ import math
 
 
 
-#socios y ahorros
+#socios y ahorros- Sebastian Orejuela Albornoz
 
 
 
