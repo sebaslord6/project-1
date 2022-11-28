@@ -97,7 +97,7 @@ import math#cronometro  1 integrante nombre:
 
 
 
-#socios y ahorros  2 integrante nombre: Sebastian Orejuela Albornoz
+#socios y ahorros  2 integrante nombre:
 
 
 
@@ -197,7 +197,7 @@ import math#cronometro  1 integrante nombre:
 
 
 
-#prestamos  2 integrante nombre:Jenifer Ortiz Torres
+#prestamos  2 integrante nombre:Jenifer Ortiz Torres,  Sebastian Orejuela Albornoz
 
 
 
